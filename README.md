@@ -18,7 +18,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ### 🌱 What I'm Working On  
 - **Gamified Schedules:** Currently building `Goal Vault`—a gamified platform to reward users daily achievements.
-- **Open Source**: Actively contributing to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the MoonRatII portable incubator and GDI.  
+- **Open Source**: Actively contributing to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
 - **Gamified Engagement:** Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
 - **AR Development:** Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
 
