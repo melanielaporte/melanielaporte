@@ -1,6 +1,6 @@
 <img width="1463" alt="banner2" src="https://github.com/user-attachments/assets/9047bda8-871f-4e04-946b-141c93481074">
 
-## Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, artist, and inventor. 
+## Welcome to my GitHub! I’m a self-taught programmer, aspiring polymath, artist, and inventor. 
 Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, art installations, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
