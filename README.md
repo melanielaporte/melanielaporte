@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Melanie Laporte
+![githubBanner](https://github.com/user-attachments/assets/41b25f76-a7a3-49ec-8b2e-b89e754b8050)
 
 
 
 ### 🎓 Sophomore at Columbia University | Computer Science & Visual Arts Dual Major  
 
-Welcome to my GitHub! I’m a self-taught software engineer and current university student, aspiring polymath, and creative problem solver. Here’s what you’ll find in my little corner of code: a blend of technical expertise, sustainability, community-driven projects, and a dose of obsession (think “choose your own adventure”, solo travel, theremins, good food).  
+Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, and creative problem solver. Here’s what you’ll find in my little corner of code: a blend of technical expertise, sustainability, community-driven projects, and a dose of random (think “choose your own adventure”, solo travel, theremins, and good food).  
 
 ---
 
