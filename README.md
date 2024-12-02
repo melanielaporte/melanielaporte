@@ -17,6 +17,9 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **Gamified Engagement:** Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
 - **AR Development:** Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
 
+[![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ### Fun with Code
