@@ -20,8 +20,8 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ---
 
 ### Fun with Code
-- **Tiny Game - Snack Size Sims** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
-- **Tiny Game - A Little Walk:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
+- **[Snack Size Sims (Github repo)](https://github.com/melanielaporte/snackSizeSims) tiny game:** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
+- **[A Little Walk (Github repo)](https://github.com/melanielaporte/aLittleWalk) tiny game:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
 
 ---
 
