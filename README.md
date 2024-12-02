@@ -26,7 +26,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ---
 
 ### Recent Achievements  
-- **NASA NPWEE Academy**: Led a team to secure a $10K grant for an ISS sensor prototype.  
+- **NASA NPWEE Academy**: Led a team to secure a $10K grant for the NASA International Space Station (ISS) innovation prototype.  
 - **Public Invention**: Designed and developed PCB systems for a portable incubator for social good, co-authoring a scientific paper slated for 2025 publication.  
 - **Girls Who Code/RTX/Raytheon Leadership Fellow**: Created Code Wayfinder, an education app to assist users interested in coding careers. 
 
