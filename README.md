@@ -1,5 +1,4 @@
-![githubBanner](https://github.com/user-attachments/assets/41b25f76-a7a3-49ec-8b2e-b89e754b8050)
-
+<img width="1463" alt="banner2" src="https://github.com/user-attachments/assets/9047bda8-871f-4e04-946b-141c93481074">
 
 
 ### Sophomore at Columbia University | Computer Science & Visual Arts Dual Major  
