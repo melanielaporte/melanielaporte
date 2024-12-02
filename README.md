@@ -4,7 +4,9 @@
 
 ### 🎓 Sophomore at Columbia University | Computer Science & Visual Arts Dual Major  
 
-Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, and creative problem solver. Here’s what you’ll find in my little corner of code: a blend of technical expertise, sustainability, community-driven projects, and a dose of random (think “choose your own adventure”, solo travel, theremins, and good food).  
+Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, and creative problem solver. 
+
+Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, theremins, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
 
