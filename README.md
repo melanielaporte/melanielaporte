@@ -24,6 +24,12 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ---
 
+## 🎮 Fun with Code
+- **Interactive Game:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON))
+- **Real-Time Stats:** [My GitHub Stats](https://github-readme-stats.vercel.app/api?melanielaporte)
+- 
+---
+
 ### 🏆 Recent Achievements  
 - **NASA NPWEE Academy**: Led a team to secure a $10K grant for an ISS sensor prototype.  
 - **Public Invention**: Designed and developed PCB systems for a portable incubator, co-authoring a scientific paper slated for 2025 publication.  
