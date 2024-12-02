@@ -1,11 +1,8 @@
 <img width="1463" alt="banner2" src="https://github.com/user-attachments/assets/9047bda8-871f-4e04-946b-141c93481074">
 
 
-### Sophomore at Columbia University | Computer Science & Visual Arts Dual Major  
-
-Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, and creative problem solver. 
-
-Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, theremins, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
+## Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, artist, and inventor. 
+Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, art installations, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
 
@@ -23,7 +20,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ![Melanie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=dark&hide_title=true&count_private=true)
 ---
 
-## Fun with Code
+### Fun with Code
 - **Tiny Game - Snack Size Sims** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
 - **Tiny Game - A Little Walk:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
 
