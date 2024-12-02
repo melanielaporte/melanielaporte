@@ -17,7 +17,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **Open Source**: Actively contributing to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
 - **Gamified Engagement:** Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
 - **AR Development:** Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
-![Melanie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=dark&hide_title=true&count_private=true)
+
 ---
 
 ### Fun with Code
