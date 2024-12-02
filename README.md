@@ -1,6 +1,5 @@
 <img width="1463" alt="banner2" src="https://github.com/user-attachments/assets/9047bda8-871f-4e04-946b-141c93481074">
 
-
 ## Welcome to my GitHub! I’m a self-taught software engineer, aspiring polymath, artist, and inventor. 
 Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, art installations, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
 
@@ -28,21 +27,21 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ### Recent Achievements  
 - **NASA NPWEE Academy**: Led a team to secure a $10K grant for an ISS sensor prototype.  
-- **Public Invention**: Designed and developed PCB systems for a portable incubator, co-authoring a scientific paper slated for 2025 publication.  
-- **Girls Who Code/RTX/Raytheon Leadership Fellow**: Created a coding education app, merging leadership and tech for social good.  
+- **Public Invention**: Designed and developed PCB systems for a portable incubator for social good, co-authoring a scientific paper slated for 2025 publication.  
+- **Girls Who Code/RTX/Raytheon Leadership Fellow**: Created Code Wayfinder, an education app to assist users interested in coding careers. 
 
 ---
 
 ### Fun Facts About Me  
-- I'm intereested in the art of storytelling — whether it's crafting narratives in code or writing fiction.  
-- The idea of "choose your own adventure" is fascinating and I plan to build the concept into many projects.  
+- Love storytelling — whether it's crafting narratives in code or writing fiction.  
+- Fascinated by idea of "choose your own adventure." I plan to build the concept into many projects.  
 - Aspiring tango dancer.
 
 ---
 
 ### Open to  
-- **Internships**: Software Engineering, AR Development, Opensource, Cloud Engineering, or Full-Stack Development roles.  
-- **Scholarships**: Opportunities that support innovation, career growth, and community impact and engagement.
+- **Internships/Coops**: Software Engineering, AR Development, Opensource, Cloud Engineering, or Full-Stack Development roles.  
+- **Scholarships/Fellowships**: Opportunities that support innovation, career growth, and community impact and engagement.
 
 ---
 
