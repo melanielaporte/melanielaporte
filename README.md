@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋 I'm Melanie Laporte
 
-<!--
-**melanielaporte/melanielaporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Sophomore at Columbia University | Computer Science & Visual Arts Dual Major  
+
+Welcome to my GitHub! I’m a self-taught software engineer and current university student, aspiring polymath, and creative problem solver. Here’s what you’ll find in my little corner of code: a blend of technical expertise, sustainability, community-driven projects, and a dose of obsession (think “choose your own adventure”, solo travel, theremins, good food).  
+
+---
+
+### 🔧 Technologies & Skills  
+- **Languages/Tools:** Git/GitHub, Agile Methodologies, Python, JavaScript, HTML, CSS, TK -> React, Vue.js, Node.js, Swift, MongoDB
+- **Design & Engineering:** PCB Design, Figma, SolidWorks, Kicad
+  
+---
+
+### 🌱 What I'm Working On  
+- **Gamified Schedules:** Currently building `Goal Vault`—a gamified platform to reward users daily achievements.
+- **Open Source**: Actively contributing to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the MoonRatII portable incubator and GDI.  
+- **Gamified Engagement:** Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
+- **AR Development:** Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
+
+---
+
+### 🏆 Recent Achievements  
+- **NASA NPWEE Academy**: Led a team to secure a $10K grant for an ISS sensor prototype.  
+- **Public Invention**: Designed and developed PCB systems for a portable incubator, co-authoring a scientific paper slated for 2025 publication.  
+- **Girls Who Code/RTX/Raytheon Leadership Fellow**: Created a coding education app, merging leadership and tech for social good.  
+
+---
+
+### 💡 Fun Facts About Me  
+- I'm intereested in the art of storytelling — whether it's crafting narratives in code or writing fiction.  
+- The idea of "choose your own adventure" is fascinating and I plan to build the concept into many projects.  
+- Aspiring tango dancer.
+
+---
+
+### 🔍 Looking For  
+- **Internships**: Software Engineering, AR Development, Opensource, Cloud Engineering, or Full-Stack Development roles.  
+- **Scholarships**: Opportunities that support innovation, community impact and engagement, and multidisciplinary growth.  
+
+---
+
+### 🤝 Let’s Connect  
+- **LinkedIn**: https://www.linkedin.com/in/melanielaporte
+- **Portfolio**: Coming Soon! 
