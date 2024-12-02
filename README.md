@@ -21,13 +21,13 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **Open Source**: Actively contributing to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
 - **Gamified Engagement:** Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
 - **AR Development:** Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
-
+![Melanie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=dark&hide_title=true&count_private=true)
 ---
 
 ## Fun with Code
 - **Tiny Meta Game - Snack Size Sims** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
 - **Tiny Meta Game - A Little Walk:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
-- **Real-Time Stats:** [My GitHub Stats](https://github-readme-stats.vercel.app/api?melanielaporte)
+
 ---
 
 ### Recent Achievements  
@@ -46,7 +46,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ### Open to  
 - **Internships**: Software Engineering, AR Development, Opensource, Cloud Engineering, or Full-Stack Development roles.  
-- **Scholarships**: Opportunities that support innovation, community impact and engagement, and multidisciplinary growth.  
+- **Scholarships**: Opportunities that support innovation, career growth, and community impact and engagement.
 
 ---
 
