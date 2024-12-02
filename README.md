@@ -26,7 +26,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ## Fun with Code
 - **Tiny Meta Game - Snack Size Sims** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
-- **Tiny Meta Game - A Little Walk:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON))
+- **Tiny Meta Game - A Little Walk:** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
 - **Real-Time Stats:** [My GitHub Stats](https://github-readme-stats.vercel.app/api?melanielaporte)
 ---
 
