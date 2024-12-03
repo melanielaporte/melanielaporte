@@ -36,7 +36,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ### Fun Facts About Me  
 - Love storytelling — whether it's crafting narratives in code or writing fiction.  
-- Fascinated by ideas of "choose your own adventure" and gamefying life subjects, especially mundane topics. 
+- Fascinated by ideas of "choose your own adventure" and gamefying life functions. 
 - Aspiring tango dancer.
 
 ---
