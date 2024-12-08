@@ -12,10 +12,11 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ---
 
 ### What I'm Working On  
-- **Gamified Schedules:** Currently building `Goal Vault`—a gamified platform to reward users daily achievements.
-- **Open Source**: Actively contributing to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
-- **Gamified Engagement:** Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
-- **AR Development:** Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
+- Currently building `Goal Vault`—a gamified platform to reward users daily achievements.
+- **Actively contribute to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
+- Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
+- Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
+- Building a Tiktok trend analyzer app with Swift.
 
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
