@@ -38,7 +38,13 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - Love storytelling — whether it's crafting narratives in code or writing fiction.  
 - Fascinated by ideas of "choose your own adventure" and gamefying life functions. 
 - Enjoy all things urban farming.
-
+```mermaid
+pie
+    title Interests
+    "Storytelling" : 40
+    "Urban farming" : 15
+    "Design" : 45 
+```
 ---
 
 ### Let’s Connect  
