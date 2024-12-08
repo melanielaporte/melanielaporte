@@ -41,12 +41,6 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ---
 
-### Open to  
-- **Internships/Coops**: Software Engineering, AR Development, Opensource, Cloud Engineering, or Full-Stack Development roles.  
-- **Scholarships/Fellowships**: Opportunities that support innovation, career growth, and community impact and engagement.
-
----
-
 ### Let’s Connect  
 - **LinkedIn**: https://www.linkedin.com/in/melanielaporte
 - **Portfolio**: Coming Soon! 
