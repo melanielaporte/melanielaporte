@@ -1,6 +1,6 @@
 ![profileBannerMe](https://github.com/user-attachments/assets/230cfbb0-9eb5-4027-9c8a-106fea9b83ff)
 
-## Welcome to my GitHub! I’m a self-taught programmer, artist, and inventor. 
+## Welcome to my GitHub! I’m a programmer, artist, and inventor. 
 Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, art installations, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
