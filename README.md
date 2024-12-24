@@ -13,7 +13,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ### What I'm Working On  
 - Currently building `Goal Vault`—a gamified platform to reward users daily achievements.
-- **Actively contribute to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
+- Actively contribute to [Public Invention](https://publicinvention.github.io/), working on global-impact projects like the [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator and [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker.
 - Building `BadgeQuest`—a redesign of Reddit’s karma points system.  
 - Exploring immersive experiences with Snap Inc.’s Lens Studio and AR prototyping.
 - Building a Tiktok trend analyzer app with Swift.
@@ -22,9 +22,10 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ---
 
-### Fun with Code
-- **Tiny game - Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims):** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
-- **Tiny game - A Forest [(Github repo)](https://github.com/melanielaporte/aForest):** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
+### Tiny Games
+- **Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims):** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
+- **A Forest [(Github repo)](https://github.com/melanielaporte/aForest):** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
+- **Pirate's Booty [(Github repo)](https://github.com/melanielaporte/Pirates-Booty)**
 
 ---
 
@@ -46,8 +47,3 @@ pie
     "Urban farming" : 15
     "Design" : 45 
 ```
----
-
-### Let’s Connect  
-- **LinkedIn**: https://www.linkedin.com/in/melanielaporte
-- **Portfolio**: Coming Soon! 
