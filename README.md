@@ -15,29 +15,30 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ---
 
-### Current Work  
+### Current  
 - Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects
   -- [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator
   -- [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracke
-- Learning React and the MERN stack
-  
+- **Work in:** Python, HTML, CSS, JavaScript, TypeScript, Blender, Kicad PCB design, Freecad
+- **Learning:** React, MERN stack, Swift, C++
+- **Next up:** Maya, Unity
 ---
 
 ### Tiny Games
-- **Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims):** [Play here!](https://supporting-maroon-kangaroo-922.vscodeedu.app)
-- **A Forest [(Github repo)](https://github.com/melanielaporte/aForest):** [Play here!](https://adaptable-indigo-suit-423.vscodeedu.app/)
-- **Pirate's Booty [(Github repo)](https://github.com/melanielaporte/Pirates-Booty):** [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
+- Memory Game [(Github repo)](https://github.com/melanielaporte/Pirates-Booty): [Play here!](https://melanielaporte.github.io/Pirates-Booty/)
+- Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims): [Play here!](https://supporting-maroon-kangaroo-922.vscodeedu.app)
+- A Forest Walk [(Github repo)](https://github.com/melanielaporte/aForest): [Play here!](https://adaptable-indigo-suit-423.vscodeedu.app/)
   
 ---
 
 ### Fun Facts About Me  
 - Love storytelling — whether it's crafting narratives in code or writing fiction  
-- Fascinated by ideas of "choose your own adventure" and gamefying life functions 
+- Fascinated by concepts of "choose your own adventure" and gamefying life functions 
 - Enjoy all things DIY.
 ```mermaid
 pie
     title Interests
-    "Storytelling" : 35
-    "Urban farming" : 15
-    "Design" : 60 
+    "Storytelling" : 30
+    "3D modeling" : 30
+    "Design" : 40
 ```
