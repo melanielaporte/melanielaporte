@@ -24,8 +24,8 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ---
 
 ### Tiny Games
-- **Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims):** [Play here!]([https://codepen.io/melanielaporte/pen/KwPpyey](https://supporting-maroon-kangaroo-922.vscodeedu.app)
-- **A Forest [(Github repo)](https://github.com/melanielaporte/aForest):** [Play here!]([https://codepen.io/melanielaporte/pen/OPLVOON](https://adaptable-indigo-suit-423.vscodeedu.app/)
+- **Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims):** [Play here!](https://supporting-maroon-kangaroo-922.vscodeedu.app)
+- **A Forest [(Github repo)](https://github.com/melanielaporte/aForest):** [Play here!](https://adaptable-indigo-suit-423.vscodeedu.app/)
 - **Pirate's Booty [(Github repo)](https://github.com/melanielaporte/Pirates-Booty):** [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
   
 ---
