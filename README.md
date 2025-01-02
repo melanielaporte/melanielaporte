@@ -25,7 +25,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ---
 
 ### Tiny Games
-- Memory Game [(Github repo)](https://github.com/melanielaporte/Pirates-Booty): [Play here!](https://melanielaporte.github.io/Pirates-Booty/)
+- Memory Game [(Github repo)](https://github.com/melanielaporte/Pirates-Booty): [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
 - Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims): [Play here!](https://supporting-maroon-kangaroo-922.vscodeedu.app)
 - A Forest Walk [(Github repo)](https://github.com/melanielaporte/aForest): [Play here!](https://adaptable-indigo-suit-423.vscodeedu.app/)
   
