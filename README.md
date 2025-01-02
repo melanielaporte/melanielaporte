@@ -2,7 +2,7 @@
 
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-## Welcome to my GitHub! I’m a programmer, artist, and inventor. 
+## Welcome to my GitHub! I’m a budding creative engineer and artist. 
 Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think “choose your own adventure”, solo travel, art installations, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
@@ -26,7 +26,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ### Tiny Games
 - **Snack Size Sims [(Github repo)](https://github.com/melanielaporte/snackSizeSims):** [Play here!](https://codepen.io/melanielaporte/pen/KwPpyey)
 - **A Forest [(Github repo)](https://github.com/melanielaporte/aForest):** [Play here!](https://codepen.io/melanielaporte/pen/OPLVOON)
-- **Pirate's Booty [(Github repo)](https://github.com/melanielaporte/Pirates-Booty)**
+- **Pirate's Booty [(Github repo)](https://github.com/melanielaporte/Pirates-Booty):** [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
   
 ---
 
