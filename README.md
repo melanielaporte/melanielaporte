@@ -28,6 +28,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **[Minimalistic Website](https://github.com/melanielaporte/sparse_Website)** - Software used: Figma, HTML, CSS, JS
 - **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software used: C++, Kicad schematic design, Freecad 3d modeling, Ngspice simulation. Hardware used: Soldering Station, Multimeter, Arduino, 3D Printer 
 - **[Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)** - Software used: Figma
+- **[Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)** - Software used: Figma
 - **3D Printing** - Coming Soon
 - **3D Solid Modeling/Animation** - Coming Soon
 - **Nonprofit Website Coded-SustainTulsa** - Coming Soon
