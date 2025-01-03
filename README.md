@@ -25,16 +25,16 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ## Work
 ### [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) 
 - [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
-- Figma, HTML, CSS, JS
+- Software used: Figma, HTML, CSS, JS
 ### [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
-- Figma, HTML, CSS 
+- Software used: Figma, HTML, CSS 
 ### [MoonRatII Printed Circuit Board]()
-- Kicad, Freecad
-### [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
-- Figma
-- Nonprofit
-### d
--  
+- Software used: Kicad, Freecad
+### [Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)
+- Software used: Figma
+### 3D Modeling - Coming Soon
+### Nonprofit Website Coded-SustainTulsa - Coming Soon
+
 ---
 
 ### Fun Facts  
