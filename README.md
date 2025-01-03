@@ -15,12 +15,12 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ---
 ## Current  
-- Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects
-  -- [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator
-  -- [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker
+- Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects: [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator &
+   [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker
 - **Work in:** Python, HTML, CSS, JavaScript, TypeScript, Blender, Kicad PCB design, Freecad
 - **Learning:** React, MERN stack, Swift, C++
 - **Next up:** Maya, Unity
+  
 ---
 ## Work
 - **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)** - Software used: Figma, HTML, CSS, JS
@@ -31,7 +31,6 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **3D Printing** - Coming Soon
 - **3D Solid Modeling/Animation** - Coming Soon
 - **Nonprofit Website Coded-SustainTulsa** - Coming Soon
-
 ---
 
 ### Fun Facts  
