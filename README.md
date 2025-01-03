@@ -23,19 +23,19 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **Next up:** Maya, Unity
 ---
 ## Work
-### [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) 
+#### [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) 
 - [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
 - Software used: Figma, HTML, CSS, JS
-### [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
+#### [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
 - Software used: Figma, HTML, CSS 
-### [MoonRatII Printed Circuit Board]()
+#### [MoonRatII Printed Circuit Board]()
 - Software used: C++, Kicad schematic design, Freecad 3d modeling, Ngspice simulation, 
 - Hardware used: Soldering Station, Multimeter, Arduino, 3D Printer 
-### [Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)
+#### [Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)
 - Software used: Figma
-### 3D Printing - Coming Soon
-### 3D Solid Modeling/Animation - Coming Soon
-### Nonprofit Website Coded-SustainTulsa - Coming Soon
+#### 3D Printing - Coming Soon
+#### 3D Solid Modeling/Animation - Coming Soon
+#### Nonprofit Website Coded-SustainTulsa - Coming Soon
 
 ---
 
