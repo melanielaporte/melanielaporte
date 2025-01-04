@@ -3,7 +3,7 @@
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 # Welcome to my GitHub! I’m a budding creative engineer and artist. 
-Passionate about sustainability, community-driven projects, interactive coding, and a dose of random (think cinematography, solo travel, art installations, and good food). Currently exploring ways to use technology for **positive change** and **empowerment**.
+Passionate about sustainability, community-driven projects, interactive coding, and a dose of random. Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
 
