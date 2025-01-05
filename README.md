@@ -5,7 +5,6 @@
 # Welcome to my GitHub! I’m a budding creative engineer and artist. 
 Passionate about sustainability, community-driven projects, interactive coding, and a dose of random. Currently exploring ways to use technology for **positive change** and **empowerment**.
 
-<iframe src="https://scratch.mit.edu/projects/944572210/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 ---
 
 ## Resources I created, Enjoy!
