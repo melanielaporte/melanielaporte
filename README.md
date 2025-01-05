@@ -30,6 +30,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **[Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)** - Figma
 - **[Writer Website Design](https://github.com/melanielaporte/writerPortfolioSite)** - Figma
 - **3D Designed and printed Whistle** - Coming Soon
+- **GoalVault** - Coming Soon
 - **Nonprofit Coded Websites** - Coming Soon
 ---
 
