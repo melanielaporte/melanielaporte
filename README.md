@@ -11,7 +11,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - [JLCPCB Printed Circut Board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide). The PCB ordering process is complicated, reach out with any questions 
 - [HTML, CSS, JavaScript Project Template](https://github.com/melanielaporte/project-template-novices) to help start a project quickly
 - [Git command line cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
-- [Major engineering Project Template.](https://github.com/melanielaporte/Engineering-Project-Template) Includes marketing, hardware, firmware, etc. folders. Created with Forrest "Lee" Erickson
+- [Major engineering Project Template.](https://github.com/melanielaporte/Engineering-Project-Template) Includes marketing, hardware, firmware, etc. folders. Created by Forrest "Lee" Erickson
 
 ---
 ## Current  
