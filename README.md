@@ -19,7 +19,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
    [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker
 - **Work in:** Python, HTML, CSS, JavaScript, TypeScript, Kicad PCB design, Freecad
 - **Learning:** React, MERN stack
-- **Next up:** Swift, C++, Blender, Houdini
+- **Next up:** Swift, C++, Blender, Cinema 3D -> Houdini
   
 ---
 ## Work
