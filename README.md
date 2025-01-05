@@ -36,7 +36,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 ### Fun Facts  
 - Love storytelling — whether it's crafting narratives in code or writing fiction  
 - Fascinated by concepts of "choose your own adventure" and gamefying life functions 
-- Enjoy all things DIY
+- Enjoy all things DIY and invention
 ```mermaid
 pie
     title Interests
