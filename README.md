@@ -23,7 +23,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
   
 ---
 ## Work
-- **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)** - Figma, HTML, CSS, JS
+- **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)** - HTML, CSS, JS
  --> [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
 - **[Minimalistic Website](https://github.com/melanielaporte/sparse_Website)** - Figma, HTML, CSS, JS
 - **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software (C++, Kicad schematic design, Freecad 3D modeling, Ngspice simulation). Hardware (Soldering Station, Multimeter, Arduino, 3D Printer) 
