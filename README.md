@@ -9,7 +9,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 
 ## Resources I created, Enjoy!
 - [JLCPCB Printed Circut Board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon)
-- [HTML, CSS, JavaScript Project Template](https://github.com/melanielaporte/project-template-novices) to help start a project quickly
+- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help start a project quickly
 - [Git command line cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 
 ---
