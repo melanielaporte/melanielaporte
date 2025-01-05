@@ -41,6 +41,6 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 pie
     title Interests
     "Storytelling" : 30
-    "3D modeling" : 30
+    "Building Prototypes" : 30
     "Design" : 40
 ```
