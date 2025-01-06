@@ -29,9 +29,9 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software (C++, Kicad schematic design, Freecad 3D modeling, Ngspice simulation). Hardware (Soldering Station, Multimeter, Arduino, 3D Printer) 
 - **[Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)** - Figma
 - **[Authur Website Design](https://github.com/melanielaporte/writerPortfolioSite)** - Figma
-- **3D Designed and printed whistle** - Coming Soon
-- **GoalVault** - Coming Soon
-- **Nonprofit Coded Website** - Coming Soon
+- **3D Designed and printed whistle** Coming Soon - Freecad
+- **GoalVault** Coming Soon - Figma, HTML, CSS, JS, React
+- **Nonprofit Coded Website** Coming Soon - HTML, CSS, JS
 ---
 
 ### Fun Facts  
