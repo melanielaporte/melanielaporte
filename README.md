@@ -6,13 +6,6 @@
 Passionate about sustainability, community-driven projects, interactive coding, and a dose of random. Currently exploring ways to use technology for **positive change** and **empowerment**.
 
 ---
-
-## Resources I created, Enjoy!
-- [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon)
-- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly
-- [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
-
----
 ## Current  
 - Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects: [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator &
    [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker
@@ -21,6 +14,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **Next up:** Swift, C++, Blender, Cinema 3D -> Houdini
   
 ---
+
 ## Work
 - **Mini Movie: 3001** [Watch here](https://github.com/melanielaporte/Mini-Movie-3001) - PowerPoint
 - **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)** - HTML, CSS, JS
@@ -34,10 +28,17 @@ Passionate about sustainability, community-driven projects, interactive coding, 
 - **Nonprofit Coded Website** Coming Soon - HTML, CSS, JS
 ---
 
+## Resources I created, Enjoy!
+- [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon)
+- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly
+- [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
+
+---
 ### Fun Facts  
 - Love storytelling — whether it's crafting narratives in code or writing fiction  
 - Fascinated by concepts of "choose your own adventure" and gamefying life functions 
 - Enjoy all things DIY and invention
+
 ```mermaid
 pie
     title Interests
