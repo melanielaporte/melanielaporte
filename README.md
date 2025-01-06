@@ -22,6 +22,7 @@ Passionate about sustainability, community-driven projects, interactive coding, 
   
 ---
 ## Work
+- **Mini Movie: 3001** [Watch here](https://github.com/melanielaporte/Mini-Movie-3001)
 - **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)** - HTML, CSS, JS
  --> [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
 - **[Minimalistic Website](https://github.com/melanielaporte/sparse_Website)** - Figma, HTML, CSS, JS
