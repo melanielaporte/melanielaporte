@@ -3,47 +3,38 @@
 
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-# Hi! I'm Melanie—an aspiring software engineer
-## passionate about solving problems creatively and driving innovation through code. 
-
----
-## Current  
-- Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects: [MoonRatII](https://github.com/melanielaporte/moonrat) portable incubator &
-   [GDT](https://github.com/gosqasorg/asset-provenance-tracking), an humantarian asset provenence tracker
-- **Work in:** Python, HTML, CSS, JavaScript, TypeScript, Kicad PCB design, Arduino, Freecad
-- **Learning:** React, MERN stack
-- **Next up:** Swift, C++, Blender, Cinema 3D -> Houdini
-  
----
-
-## Work
-- **Mini Movie: 3001** [Watch here](https://github.com/melanielaporte/Mini-Movie-3001) - PowerPoint
-- **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)** - HTML, CSS, JS
+# Hi! I'm Melanie
+## Aspiring software developer passionate about building solutions that merge creativity with functionality with expertise in: 
+## 1. Full-stack development
+- **[Minimalistic Website](https://github.com/melanielaporte/sparse_Website)** 
+- **[Memory Card Game](https://github.com/melanielaporte/Pirates-Booty)**
  --> [Play here!](https://editting-lively-shell-121.vscodeedu.app/)
-- **[Minimalistic Website](https://github.com/melanielaporte/sparse_Website)** - Figma, HTML, CSS, JS
+## 2. UI/UX design
+- **[Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)**
+- **[Authur Website Design](https://github.com/melanielaporte/writerPortfolioSite)**
+## 3. Electronics prototyping.
 - **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software (C++, Kicad schematic design, Freecad 3D modeling, Ngspice simulation). Hardware (Soldering Station, Multimeter, Arduino, 3D Printer) 
-- **[Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)** - Figma
-- **[Authur Website Design](https://github.com/melanielaporte/writerPortfolioSite)** - Figma
-- **3D modeled and printed whistle** Coming Soon - Freecad
-- **GoalVault** Coming Soon - Figma, HTML, CSS, JS, React
-- **Nonprofit Coded Website** Coming Soon - HTML, CSS, JS
----
 
-## Resources I created, Enjoy!
+---
+## Resources created
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon)
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly
 - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 
 ---
-### Fun Facts  
-- Love storytelling — whether it's crafting narratives in code or writing fiction  
-- Fascinated by concepts of "choose your own adventure" and gamefying life functions 
-- Enjoy all things DIY and invention
+## Fun Facts  
+- Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects:
+[MoonRatII](https://github.com/melanielaporte/moonrat): A portable incubator for rapid fieldwork.
+[GDT](https://github.com/gosqasorg/asset-provenance-tracking): A humanitarian asset provenance tracker.
+- Interested about bridging creativity and technology — from writing fiction to crafting innovative code.
+- Exploring ways to gamify productivity and enhance user experiences with interactive design.
+- Enthusiastic about all things DIY and invention, especially prototyping devices that solve real-world problems.
+- Looking to collaborate on projects that merge engineering, design, and social impact.
 
 ```mermaid
 pie
     title Interests
-    "Storytelling" : 30
-    "Building Prototypes" : 30
-    "Design" : 40
+    "Storytelling in Code" : 30
+    "Prototyping & Building" : 30
+    "Innovative Design" : 40
 ```
