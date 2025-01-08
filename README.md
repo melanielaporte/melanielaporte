@@ -1,4 +1,4 @@
-![profileBannerMe](https://github.com/user-attachments/assets/230cfbb0-9eb5-4027-9c8a-106fea9b83ff) 
+![Banner1](https://github.com/user-attachments/assets/b17c9edc-c601-4b7e-8a1a-922f73ca7130)
 
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
