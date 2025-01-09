@@ -13,13 +13,13 @@
 - **[Nonprofit Website Design-Farm To Family](https://github.com/melanielaporte/farmtofamilySite)**
 - **[Authur Website Design](https://github.com/melanielaporte/writerPortfolioSite)**
 ## 3. Electronics prototyping.
-- **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software (C++, Kicad schematic design, Freecad 3D modeling, Ngspice simulation). Hardware (Soldering Station, Multimeter, Arduino, 3D Printer) 
+- **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software (C++, Kicad schematic design, Freecad 3D modeling, Ngspice simulation). Hardware (Soldering Station, Multimeter, Arduino, 3D Printer).
 
 ---
 ## Resources created
-- [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon)
-- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly
-- [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
+- [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon).
+- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly.
+- [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet).
 
 ---
 ## Fun Facts  
