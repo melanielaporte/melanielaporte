@@ -24,8 +24,8 @@
 ---
 ## Fun Facts  
 - Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects:
-[MoonRatII](https://github.com/melanielaporte/moonrat): A portable incubator for rapid fieldwork.
-[GDT](https://github.com/gosqasorg/asset-provenance-tracking): A humanitarian asset provenance tracker.
+  - [MoonRatII](https://github.com/melanielaporte/moonrat): A portable incubator for rapid fieldwork.
+  - [GDT](https://github.com/gosqasorg/asset-provenance-tracking): A humanitarian asset provenance tracker.
 - Interested about bridging creativity and technology — from writing fiction to crafting innovative code.
 - Exploring ways to gamify productivity and enhance user experiences with interactive design.
 - Enthusiastic about all things DIY and invention, especially prototyping devices that solve real-world problems.
