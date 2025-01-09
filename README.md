@@ -23,6 +23,12 @@
 
 ---
 ## Fun Facts  
+```mermaid
+graph LR
+    Storytelling --> Prototyping
+    Prototyping --> Design
+    Design --> Storytelling
+```
 - Actively contribute to [Public Invention](https://publicinvention.github.io/) global-impact projects:
   - [MoonRatII](https://github.com/melanielaporte/moonrat): A portable incubator for rapid fieldwork.
   - [GDT](https://github.com/gosqasorg/asset-provenance-tracking): A humanitarian asset provenance tracker.
@@ -31,10 +37,3 @@
 - Enthusiastic about all things DIY and invention, especially prototyping devices that solve real-world problems.
 - Looking to collaborate on projects that merge engineering, design, and social impact.
 
-```mermaid
-pie
-    title Interests
-    "Storytelling in Code" : 30
-    "Prototyping & Building" : 30
-    "Innovative Design" : 40
-```
