@@ -1,9 +1,5 @@
 ![Banner1](https://github.com/user-attachments/assets/b17c9edc-c601-4b7e-8a1a-922f73ca7130)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hi! I'm Melanie
 ## Aspiring software developer passionate about building solutions that merge creativity with functionality with expertise in: 
 ## 1. Full-stack development
@@ -17,6 +13,11 @@
 - **[MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)** - Software (C++, Kicad schematic design, Freecad 3D modeling, Ngspice simulation). Hardware (Soldering Station, Multimeter, Arduino, 3D Printer).
 
 ---
+
+[![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## Resources created
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon).
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly.
