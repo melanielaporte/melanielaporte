@@ -1,7 +1,7 @@
 ![Banner1](https://github.com/user-attachments/assets/b17c9edc-c601-4b7e-8a1a-922f73ca7130)
 
 
-[![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi! I'm Melanie
 ## Aspiring software developer passionate about building solutions that merge creativity with functionality with expertise in: 
