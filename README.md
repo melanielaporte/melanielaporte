@@ -20,7 +20,8 @@
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide) the PCB ordering process is complicated, reach out with any questions (photos Coming soon).
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) to help you start a project quickly.
 - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
-- [Internship Tracker Template](https://github.com/melanielaporte/Internship-Tracker-Template)
+- [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
+- [Checkbox progress bar spreadsheet template](https://github.com/melanielaporte/Progress-Bar-Spreadsheet-Template)
 
 ---
 ## Fun Facts  
