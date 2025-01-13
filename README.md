@@ -30,13 +30,16 @@
 I am an aspiring software developer passionate about building solutions that merge creativity with functionality with expertise  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
 - :telescope: I am studying Computer Science at Columbia University, promote frontend and backend for building web and app applications, and prototype devices 
 
-- :seedling: Exploring 3D modeling.
+- :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
 - :zap: In my free time, I actively contribute to open source humanitarian projects like [MoonRatII](https://github.com/melanielaporte/moonrat) and [GDT](https://github.com/gosqasorg/asset-provenance-tracking) that merge engineering, design, and social impact to real-world problems.
     
-- :video_game: Interested in exploring ways to gamify productivity and enhance user experiences with interactive design.
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-melanielaporte-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelanieLaporte&theme=dark&background=000000)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,12 +54,9 @@ I am an aspiring software developer passionate about building solutions that mer
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" title="Kicad" **alt="Kicad" width="60" height="40"/>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelanieLaporte&theme=dark&background=000000)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
 
------------------------------
-
-### :bulb: Projects
+### :bulb: Projects :
 Full-stack development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website), [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
   
 UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite), [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
@@ -70,13 +70,4 @@ Resources for universal use:
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Checkbox progress bar spreadsheet template](https://github.com/melanielaporte/Progress-Bar-Spreadsheet-Template)
 - [Github Markdown Cheatsheet](https://github.com/melanielaporte/Markdown-Cheatsheet)
-
-
-### :art: Mission -> Bridge Creativity, Technology, and Impact 
-```mermaid
-graph LR
-    Storytelling --> Prototyping
-    Prototyping --> Design
-    Design --> Storytelling
-```
 
