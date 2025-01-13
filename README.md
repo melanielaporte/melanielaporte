@@ -1,10 +1,10 @@
-![Banner1](https://github.com/user-attachments/assets/b17c9edc-c601-4b7e-8a1a-922f73ca7130)
- 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+![Banner1](https://github.com/user-attachments/assets/6664d73d-307f-4a4c-addc-b5c56776c52c)
+
+<div id="header" align="center" alt="my gif">
+  <img src="https://github.com/user-attachments/assets/4a3d4756-0eaf-45fc-b796-162276203298" width="150"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" alt="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,19 +13,20 @@
   </a>
 </div>
 
-<div id="views" align="center">
+<div id="views" align="center"a lt="views">
   <img src="https://komarev.com/ghpvc/?username=MelanieLaporte&style=flat-square&color=blue" alt="views"/>
 </div>
 
-<h1> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
+
+
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm a sophormore at Columbia University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -63,9 +64,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=MelanieLaporte
 
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelanieLaporte&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
 
 -----------------------------
 
