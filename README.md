@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 I am an aspiring software developer passionate about building solutions that merge creativity with functionality with expertise  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
-- :telescope: I am studying Computer Science at Columbia University, promote frontend and backend for building web and app applications, and prototype devices 
+- :telescope: I am studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as prototype devices.
 
 - :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
