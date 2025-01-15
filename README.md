@@ -39,7 +39,7 @@ I am an aspiring computer engineer passionate about building solutions that merg
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melanielaporte&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanielaporte&layout=donut)](https://github.com/melanielaporte/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanielaporte&layout=donut)](https://github.com/melanielaporte/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
