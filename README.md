@@ -34,7 +34,7 @@ I am an aspiring computer engineer passionate about building solutions that merg
 
 - :zap: In my free time, I actively contribute to open source humanitarian projects like [MoonRatII](https://github.com/melanielaporte/moonrat) and [GDT](https://github.com/gosqasorg/asset-provenance-tracking) that merge engineering, design, and social impact to real-world problems.
     
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-melanielaporte-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-melanielaporte-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/melanielaporte)
   
 ---
 
