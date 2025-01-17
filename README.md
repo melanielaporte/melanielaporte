@@ -57,7 +57,7 @@ I am an aspiring computer engineer passionate about building solutions that merg
 ---
 
 ### :bulb: Projects :
-Full-stack development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website), [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
+Web development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website), [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
   
 UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite), [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
