@@ -69,5 +69,5 @@ Resources for universal use:
 - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Checkbox progress bar spreadsheet template](https://github.com/melanielaporte/Progress-Bar-Spreadsheet-Template)
-- [Github Markdown Cheatsheet](https://github.com/melanielaporte/Markdown-Cheatsheet)
+- [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
