@@ -17,16 +17,16 @@
 <div id="views" align="center"a lt="views">
   <img src="https://komarev.com/ghpvc/?username=MelanieLaporte&style=flat-square&color=blue" alt="views"/>
 </div>
-
-
+ 
 <div>
  <h1> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 
-
 ### :woman_technologist: About Me :
+>My motto: `` Success follows what you love ``
+
 I am an aspiring computer engineer passionate about building solutions that merge creativity with functionality with expertise from New York.
 - :telescope: I am studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as hardware and prototype devices.
 
