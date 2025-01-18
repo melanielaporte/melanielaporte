@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 >`` Success follows what you love ``
 
-I am an aspiring computer engineer passionate about building solutions that merge creativity with functionality with expertise from New York.
+I am an aspiring engineer passionate about building solutions that merge creativity with functionality with expertise from New York.
 - :telescope: I am studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as hardware and prototype devices.
 
 - :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
