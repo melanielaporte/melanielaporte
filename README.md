@@ -25,7 +25,7 @@
 
 
 ### :woman_technologist: About Me :
->My motto: `` Success follows what you love ``
+>`` Success follows what you love ``
 
 I am an aspiring computer engineer passionate about building solutions that merge creativity with functionality with expertise from New York.
 - :telescope: I am studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as hardware and prototype devices.
