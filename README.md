@@ -54,14 +54,18 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" title="Kicad" **alt="Kicad" width="60" height="40"/>
 </div>
 
----
+---------------------
 
-### :bulb: Projects :
+### :bulb: Projects:
+3D modeling: [Narcan Kandy for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
+
 Web development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website), [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
   
 UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite), [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
 Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)
+
+Animation: [3001](https://github.com/melanielaporte/Mini-Movie-3001)
 
 Resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
