@@ -65,7 +65,7 @@ UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmt
 
 Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)
 
-Animation: [3001](https://github.com/melanielaporte/Mini-Movie-3001)
+Animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 
 Resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
