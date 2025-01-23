@@ -73,6 +73,5 @@ Resources for universal use:
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices)
 - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
-- [Checkbox progress bar spreadsheet template](https://github.com/melanielaporte/Progress-Bar-Spreadsheet-Template)
 - [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
