@@ -58,7 +58,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ---------------------
 
 ### :bulb: Projects:
-3D modeling: [Narcan Kandy for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
+3D modeling: [Narcan Kandy Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
 
 Web development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website), [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
   
@@ -69,9 +69,5 @@ Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/Pu
 Animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 
 Resources for universal use: 
-- [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
-- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices)
-- [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
-- [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
-- [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
+[JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide), [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices), [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet), [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template), [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
