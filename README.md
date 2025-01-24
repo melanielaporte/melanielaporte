@@ -65,7 +65,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 
 Web development (coded): 
 - [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
-- [Nonprofut Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
+- [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
 
 Games: 
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
