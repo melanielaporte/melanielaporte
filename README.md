@@ -66,7 +66,7 @@ Games: [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play
   
 UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite) and [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
-Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)
+Electronics prototyping: [Moonrat Portable Incubator (Printed Circuit Boards](https://github.com/PubInv/moonrat)
 
 Film/animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 
