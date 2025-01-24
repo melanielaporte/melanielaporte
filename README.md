@@ -53,6 +53,8 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" title="Kicad" **alt="Kicad" width="60" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="60" height="40"/>
+
 </div>
 
 ---------------------
