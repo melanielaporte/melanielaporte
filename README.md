@@ -74,7 +74,9 @@ Film/animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3
 
 My free resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
-- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices) - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
+- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices)
+
+- [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
