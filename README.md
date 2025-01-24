@@ -86,4 +86,5 @@ Other free resources:
   - [Pro bono patent attorneys](https://www.uspto.gov/patents/basics/using-legal-services/pro-bono/patent-pro-bono-program#:~:text=The%20Patent%20Pro%20Bono%20Program,assistance%20in%20securing%20patent%20protection.)
 - [Survivor books for the prepper in you](https://www.survivorlibrary.com/index.php/main-library-index/)
 - [Learn any language](https://www.languagelist.org/)
+- [Directory of free things](https://download.kiwix.org/zim/)
 
