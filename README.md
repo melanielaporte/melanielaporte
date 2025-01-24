@@ -60,13 +60,15 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ### :bulb: Projects:
 3D modeling: [Narcan Kandy Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
 
-Web development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website), [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
+Web development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
+
+Games: [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
   
 UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite), [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
 Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/PubInv/moonrat)
 
-Animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
+Film/animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 
 ### 📖: Resources:
 
