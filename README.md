@@ -58,19 +58,31 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ---------------------
 
 ### :bulb: Projects:
-3D modeling: [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
+3D modeling: 
+- [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
 
-Web development (coded): [Minimalistic Website](https://github.com/melanielaporte/sparse_Website) and [Nonprofut Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
+Web development (coded): 
+- [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
+- [Nonprofut Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
 
-Games: [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
+Games: 
+- [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
   
-UI/UX design: [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite) and [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
+UI/UX design:
+- [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
+- [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
-Electronic prototyping: [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat) and TENS (Coming Soon)
+Electronic prototyping: 
+- [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
+- TENS (Coming Soon)
 
-Film/animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
+Film/animation: 
+- [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
+- Don't Fear the Reaper (Coming Soon)
+- Forbes 30 Under 30 Prison Pipeline (Coming Soon)
 
-Writing: Mentoring - What is it, How to Be Mentored, and How to Be a Mentor (Coming Soon)
+Writing: 
+- Mentoring - What is it, How to Be Mentored, and How to Be a Mentor (Coming Soon)
 
 ### 📖: Resources:
 
