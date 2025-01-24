@@ -84,7 +84,7 @@ Film/animation:
 - Forbes 30 Under 30 Prison Pipeline (Coming Soon)
 
 Writing: 
-- Mentoring - What is it, How to Be Mentored, and How to Be a Mentor (Coming Soon)
+- Mentoring - How to Mentor and be Mentored (Coming Soon)
 
 ### 📖: Resources:
 
