@@ -68,6 +68,14 @@ Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/Pu
 
 Animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 
-Resources for universal use: 
-[JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide), [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices), [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet), [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template), [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
+### 📖: Resources:
+
+My free resources for universal use: 
+- [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
+- [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices), - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
+- [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
+- [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
+
+Other free resource:
+- [Free programming books -Ebook Foundation](https://ebookfoundation.github.io/free-programming-books-search/)
 
