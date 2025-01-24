@@ -58,7 +58,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ---------------------
 
 ### :bulb: Projects:
-3D modeling: [Narcan Kandy Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
+3D modeling: [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
 
 Web development: [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
 
