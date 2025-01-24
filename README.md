@@ -68,17 +68,14 @@ Electronics prototyping: [MoonRatII Printed Circuit Board](https://github.com/Pu
 
 Animation: [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 
-Writing: How to be Mentored and How to be a Great Mentor - COMING SOON 
-
 ### 📖: Resources:
 
 My free resources for universal use: 
-- ArticlesHow to be a 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices), - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
 Other free resource:
-- [Free programming books -Ebook Foundation](https://ebookfoundation.github.io/free-programming-books-search/)
+- [Free programming books -Ebook Foundation](https://ebookfoundation.github.io/free-programming-books-search/) and [here](https://web.archive.org/web/20140728195258/https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development) (will be some repeats)
 
