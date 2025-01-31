@@ -60,6 +60,10 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ---------------------
 
 ### :bulb: Projects:
+Security: 
+
+- [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
+
 3D modeling: 
 - [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
 
