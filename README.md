@@ -74,6 +74,7 @@ Web development (coded):
 Art:
 - [Futuristic Sketch](https://github.com/melanielaporte/Futuristic-Sketch)
 - [Falling Stars](https://github.com/melanielaporte/Falling-Stars)
+- [Flowing Tresses](https://github.com/melanielaporte/Flowing-Tresses)
 
 Games: 
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
