@@ -72,8 +72,8 @@ Web development (coded):
 - [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
 
 Art:
-- [Futuristic Sketch](https://editor.p5js.org/melanielaporte/full/zDieMyWnN)
-- [Falling Stars](https://editor.p5js.org/melanielaporte/full/tUZW6YA-m)
+- [Futuristic Sketch](https://github.com/melanielaporte/Futuristic-Sketch)
+- [Falling Stars](https://github.com/melanielaporte/Falling-Stars)
 
 Games: 
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
