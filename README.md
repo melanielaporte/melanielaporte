@@ -72,7 +72,7 @@ Web development (coded):
 - [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
 
 Art:
-- [Openprocessing.org link]((https://openprocessing.org/user/503833?o=8&view=sketches)
+- [Openprocessing.org link](https://openprocessing.org/user/503833?o=8&view=sketches)
 
 Games: 
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
