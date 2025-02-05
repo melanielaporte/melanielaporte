@@ -72,9 +72,7 @@ Web development (coded):
 - [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
 
 Art:
-- [Futuristic Sketch](https://github.com/melanielaporte/Futuristic-Sketch)
-- [Falling Stars](https://github.com/melanielaporte/Falling-Stars)
-- [Tresses](https://github.com/melanielaporte/Tresses)
+- [Openprocessing.org link](https://openprocessing.org/user/503833?view=activity&o=8)
 
 Games: 
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
