@@ -71,7 +71,7 @@ Web development (coded):
 - [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
 - [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
 
-Art:
+Creative Coding:
 - Click to see at [Openprocessing.org](https://openprocessing.org/user/503833/?view=sketches)
 
 Games: 
