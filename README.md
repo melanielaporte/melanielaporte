@@ -1,8 +1,9 @@
-![Banner1](https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21)
+![Banner1](https://github.com/user-attachments/assets/7fba020b-620a-4afd-92c2-d47b644213c6)
 
 <div id="header" align="center" alt="my gif">
   <img src="https://github.com/user-attachments/assets/4a3d4756-0eaf-45fc-b796-162276203298" width="150"/>
 </div>
+
 
 <div id="badges" align="center" alt="badges">
   <a href="https://linkedin.com/in/melanielaporte" target="_blank">
@@ -29,6 +30,8 @@
 
 I am an aspiring engineer passionate about building solutions that merge creativity with functionality and expertise. New York based.
 - :telescope: I am studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as hardware and prototype devices.
+
+https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21
 
 - :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
@@ -111,3 +114,4 @@ Other free resources:
 - [Learn any language](https://www.languagelist.org/)
 - [Directory of free things](https://download.kiwix.org/zim/)
 
+<img src="https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21" />
