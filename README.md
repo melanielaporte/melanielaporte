@@ -24,7 +24,6 @@
 </h1>
 </div>
 
-
 ### :woman_technologist: About Me :
 >`` Success follows doing what you love ``
 
@@ -36,9 +35,7 @@ https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21
 - :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
 - :zap: In my free time, I actively contribute to open source humanitarian projects like [MoonRatII](https://github.com/melanielaporte/moonrat), harm reduction efforts like [Narcan Kandi](https://github.com/melanielaporte/NarcanKandyForRaves), and the [GDT](https://github.com/gosqasorg/asset-provenance-tracking) that merge engineering, design, and social impact to solve real-world problems.
-    
-- :mailbox: How to reach me: [![Mastodon Badge](https://img.shields.io/badge/-mastodon-black?style=flat&logo=Linkedin&logoColor=white)](https://defcon.social/@pinkypristine)
-
+  
   
 ---
 
