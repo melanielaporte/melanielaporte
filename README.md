@@ -1,4 +1,4 @@
-![Banner1](https://github.com/user-attachments/assets/7fba020b-620a-4afd-92c2-d47b644213c6)
+![Banner1](https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21)
 
 <div id="header" align="center" alt="my gif">
   <img src="https://github.com/user-attachments/assets/4a3d4756-0eaf-45fc-b796-162276203298" width="150"/>
@@ -109,4 +109,4 @@ Other free resources:
 - [Learn any language](https://www.languagelist.org/)
 - [Directory of free things](https://download.kiwix.org/zim/)
 
-<img src="https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21" />
+<img src="https://github.com/user-attachments/assets/7fba020b-620a-4afd-92c2-d47b644213c6" />
