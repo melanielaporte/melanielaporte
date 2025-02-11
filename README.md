@@ -66,14 +66,13 @@ I am an aspiring engineer passionate about building solutions that merge creativ
  <img src="https://github.com/user-attachments/assets/a9b25c56-c781-417e-ad96-877cd21a125b" width="400" height="200"/>
 
 ### Creative Coding
-<a href="https://editor.p5js.org/melanielaporte/sketches/0MCWkI8bs" target="_blank">
+<a href="https://editor.p5js.org/melanielaporte/full/0MCWkI8bs" target="_blank">
   <img src="https://github.com/user-attachments/assets/a22d5438-4c9f-4cfd-884c-1a9aae5aabe9" width="250" height="200"/>
 </a>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/f-Zk1v5cZ" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
 
 <a href="https://example.com" target="_blank">
   <img src="image.jpg" width="200">
