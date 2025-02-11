@@ -70,10 +70,9 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://github.com/user-attachments/assets/a22d5438-4c9f-4cfd-884c-1a9aae5aabe9" width="250" height="200"/>
 </a>
 
-<a href="https://editor.p5js.org/melanielaporte/sketches/f-Zk1v5cZ" target="_blank">
+<a href="https://editor.p5js.org/melanielaporte/full/f-Zk1v5cZ" target="_blank">
   <img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
 </a>
-
 
 <a href="https://editor.p5js.org/melanielaporte/full/6yB6wvExE" target="_blank">
   <img src="https://github.com/user-attachments/assets/caf178af-fef9-4fe4-a3c6-a97051ca2a35" width="250" height="200"/>
@@ -83,67 +82,53 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://github.com/user-attachments/assets/5c0e2275-8504-4b27-86ec-b91f72a9df2f" width="250" height="200"/>
 </a>
 
-
-
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/0eXKstJW1" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3abdf48d-14a7-4fa2-823d-0b290c9b8bef" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/3abdf48d-14a7-4fa2-823d-0b290c9b8bef" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/tLwvb7KlH" target="_blank">
+  <img src="https://github.com/user-attachments/assets/09686510-8811-4573-ba68-906b6f6941cf" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/09686510-8811-4573-ba68-906b6f6941cf" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/E1emHTvBI" target="_blank">
+  <img src="https://github.com/user-attachments/assets/83c302d4-8014-45ce-abb6-a6aa9203b423" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/83c302d4-8014-45ce-abb6-a6aa9203b423" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/r-ltS0bY8" target="_blank">
+  <img src="https://github.com/user-attachments/assets/15c7e585-a858-4018-a94f-da4cd59fd7db" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/15c7e585-a858-4018-a94f-da4cd59fd7db" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/VoJZ_jh1T" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c9c9bd67-9098-4b09-b6fb-93819fc2e8d3" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/c9c9bd67-9098-4b09-b6fb-93819fc2e8d3" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/lUG5cbKg2" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3d099021-279c-4508-a3ef-599883977863" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/3d099021-279c-4508-a3ef-599883977863" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/n_wBDrZx1" target="_blank">
+  <img src="https://github.com/user-attachments/assets/50742683-f822-4172-9db2-32e97d7deed9" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/50742683-f822-4172-9db2-32e97d7deed9" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/4NGqQG4dL" target="_blank">
+  <img src="https://github.com/user-attachments/assets/8068ce66-77c3-482c-b194-49b9d78655ad" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/8068ce66-77c3-482c-b194-49b9d78655ad" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/0BkXgqojz" target="_blank">
+  <img src="https://github.com/user-attachments/assets/163df5ab-bc6b-4886-9b67-f3ecf5125a76" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/163df5ab-bc6b-4886-9b67-f3ecf5125a76" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/aTuqQEIsE" target="_blank">
+  <img src="https://github.com/user-attachments/assets/87977a02-0fbf-401b-9bb6-ecef056dbb2a" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/87977a02-0fbf-401b-9bb6-ecef056dbb2a" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/qyS3BzZUG" target="_blank">
+  <img src="https://github.com/user-attachments/assets/51278f9b-46ec-4049-905e-10ec64c9cd85" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/51278f9b-46ec-4049-905e-10ec64c9cd85" width="250" height="200"/>
 
-<a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+<a href="https://editor.p5js.org/melanielaporte/full/2RYr-X7Y9" target="_blank">
+  <img src="https://github.com/user-attachments/assets/f965b39f-6f79-4091-89c8-c46a37fa9750 " width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/f965b39f-6f79-4091-89c8-c46a37fa9750 " width="250" height="200"/>
 
 ### Games
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
