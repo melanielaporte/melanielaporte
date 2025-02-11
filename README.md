@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/8b7656f7-33a5-434a-a1ce-82b6b192241d
 ![Banner1](https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21)
 
 <div id="header" align="center" alt="my gif">
@@ -57,38 +59,66 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 
 ---------------------
 
-## :bulb: Projects:
-### Film/animation: 
+## Projects:
+### Film/Animation 
 - [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
-- Don't Fear the Reaper (Coming Soon)
-- Forbes 30 Under 30 Prison Pipeline (Coming Soon)
+ <img src="https://github.com/user-attachments/assets/a9b25c56-c781-417e-ad96-877cd21a125b" width="400" height="200"/>
 
-### Creative Coding:
-- Click to see art examples at [Openprocessing.org](https://openprocessing.org/user/503833/?view=sketches)
-<img src="https://github.com/user-attachments/assets/7fba020b-620a-4afd-92c2-d47b644213c6" alt="Python" width="250" height="200"/>
+### Creative Coding
+<img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
 
-### Games: 
+<img src="https://github.com/user-attachments/assets/a22d5438-4c9f-4cfd-884c-1a9aae5aabe9" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/caf178af-fef9-4fe4-a3c6-a97051ca2a35" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/5c0e2275-8504-4b27-86ec-b91f72a9df2f" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/3abdf48d-14a7-4fa2-823d-0b290c9b8bef" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/09686510-8811-4573-ba68-906b6f6941cf" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/83c302d4-8014-45ce-abb6-a6aa9203b423" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/15c7e585-a858-4018-a94f-da4cd59fd7db" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/c9c9bd67-9098-4b09-b6fb-93819fc2e8d3" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/3d099021-279c-4508-a3ef-599883977863" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/50742683-f822-4172-9db2-32e97d7deed9" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/8068ce66-77c3-482c-b194-49b9d78655ad" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/163df5ab-bc6b-4886-9b67-f3ecf5125a76" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/87977a02-0fbf-401b-9bb6-ecef056dbb2a" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/51278f9b-46ec-4049-905e-10ec64c9cd85" width="250" height="200"/>
+
+<img src="https://github.com/user-attachments/assets/f965b39f-6f79-4091-89c8-c46a37fa9750 " width="250" height="200"/>
+
+### Games
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
 
-### Security: 
+### Security 
 - [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
 
-### 3D modeling: 
+### 3D modeling 
 - [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
 
-### Web development (coded): 
+### Web development
 - [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
 - [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
   
-### UI/UX design:
+### UI/UX design
 - [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
 - [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
-### Electronic prototyping: 
+### Electronic prototyping 
 - [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
 - TENS (Coming Soon)
 
-### Writing: 
+### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
 
 ## Resources:
