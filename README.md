@@ -70,7 +70,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://github.com/user-attachments/assets/a22d5438-4c9f-4cfd-884c-1a9aae5aabe9" width="250" height="200"/>
 </a>
 
-<a href="https://example.com" target="_blank">
+<a href="https://editor.p5js.org/melanielaporte/sketches/f-Zk1v5cZ" target="_blank">
   <img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
 </a>
 
