@@ -71,9 +71,9 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </a>
 
 <a href="https://example.com" target="_blank">
-  <img src="image.jpg" width="200">
+  <img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
 </a>
-<img src="https://github.com/user-attachments/assets/b031ede8-3995-43c2-b63a-524bb50ddd28" width="250" height="200"/>
+
 
 <a href="https://editor.p5js.org/melanielaporte/full/6yB6wvExE" target="_blank">
   <img src="https://github.com/user-attachments/assets/caf178af-fef9-4fe4-a3c6-a97051ca2a35" width="250" height="200"/>
