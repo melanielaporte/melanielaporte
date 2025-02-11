@@ -24,7 +24,7 @@
 </h1>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 >`` Success follows doing what you love ``
 
 I am an aspiring engineer passionate about building solutions that merge creativity with functionality and expertise. New York based.
@@ -37,10 +37,10 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanielaporte&layout=donut)](https://github.com/melanielaporte/github-readme-stats)
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -57,43 +57,43 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 
 ---------------------
 
-### :bulb: Projects:
-Security: 
-
-- [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
-
-3D modeling: 
-- [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
-
-Web development (coded): 
-- [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
-- [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
-
-Creative Coding:
-- Click to see at [Openprocessing.org](https://openprocessing.org/user/503833/?view=sketches)
-
-Games: 
-- [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
-  
-UI/UX design:
-- [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
-- [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
-
-Electronic prototyping: 
-- [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
-- TENS (Coming Soon)
-
-Film/animation: 
+## :bulb: Projects:
+### Film/animation: 
 - [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
 - Don't Fear the Reaper (Coming Soon)
 - Forbes 30 Under 30 Prison Pipeline (Coming Soon)
 
-Writing: 
+### Creative Coding:
+- Click to see art examples at [Openprocessing.org](https://openprocessing.org/user/503833/?view=sketches)
+<img src="https://github.com/user-attachments/assets/7fba020b-620a-4afd-92c2-d47b644213c6" alt="Python" width="250" height="200"/>
+
+### Games: 
+- [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
+
+### Security: 
+- [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
+
+### 3D modeling: 
+- [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
+
+### Web development (coded): 
+- [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
+- [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
+  
+### UI/UX design:
+- [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
+- [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
+
+### Electronic prototyping: 
+- [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
+- TENS (Coming Soon)
+
+### Writing: 
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
 
-### 📖: Resources:
+## Resources:
 
-My free resources for universal use: 
+#### My free resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices)
 
@@ -101,12 +101,10 @@ My free resources for universal use:
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
-Other free resources:
+#### Other free resources:
 - [Free programming books -Ebook Foundation](https://ebookfoundation.github.io/free-programming-books-search/) and [here](https://web.archive.org/web/20140728195258/https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development) (will be some repeats)
 - [For inventors](https://www.uspto.gov/blog/free-resources-inventors-and-entrepreneurs)
   - [Pro bono patent attorneys](https://www.uspto.gov/patents/basics/using-legal-services/pro-bono/patent-pro-bono-program#:~:text=The%20Patent%20Pro%20Bono%20Program,assistance%20in%20securing%20patent%20protection.)
 - [Survivor books for the prepper in you](https://www.survivorlibrary.com/index.php/main-library-index/)
 - [Learn any language](https://www.languagelist.org/)
 - [Directory of free things](https://download.kiwix.org/zim/)
-
-<img src="https://github.com/user-attachments/assets/7fba020b-620a-4afd-92c2-d47b644213c6" />
