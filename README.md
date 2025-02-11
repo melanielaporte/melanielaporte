@@ -26,7 +26,7 @@
 </div>
 
 ## :woman_technologist: About Me :
->`` Success follows doing what you love ``
+<h5 align=center>`` Success follows doing what you love ``</h5>
 
 I am an aspiring engineer passionate about building solutions that merge creativity with functionality and expertise. New York based.
 - :telescope: I am studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as hardware and prototype devices.
@@ -56,7 +56,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 
 ---------------------
 
-## Projects:
+## :bulb: Projects:
 ### Electronic prototyping 
 - [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
 - TENS (Coming Soon)
@@ -154,7 +154,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
 
-## Resources:
+## :book: Resources:
 
 #### My free resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
