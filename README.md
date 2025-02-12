@@ -38,7 +38,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ---
 
 ## :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanielaporte&layout=donut)](https://github.com/melanielaporte/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=synthwave) 
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
