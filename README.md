@@ -69,7 +69,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </a>
 
 ### Creative Coding
-<a href="https://editor.p5js.org/melanielaporte/full/0MCWkI8bs" target="_blank">
+<a href="https://openprocessing.org/sketch/2542265" target="_blank">
   <img src="https://github.com/user-attachments/assets/a22d5438-4c9f-4cfd-884c-1a9aae5aabe9" width="250" height="200"/>
 </a>
 
