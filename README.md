@@ -93,7 +93,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://github.com/user-attachments/assets/09686510-8811-4573-ba68-906b6f6941cf" width="250" height="200"/>
 </a>
 
-<a href="https://editor.p5js.org/melanielaporte/sketches/-8iqiqHm1" target="_blank">
+<a href="https://editor.p5js.org/melanielaporte/full/-8iqiqHm1" target="_blank">
   <img src="https://github.com/user-attachments/assets/83c302d4-8014-45ce-abb6-a6aa9203b423" width="250" height="200"/>
 </a>
 
