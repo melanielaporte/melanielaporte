@@ -130,9 +130,8 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </a>
 
 ### Games
-- Memory Card Game [Repo](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
-<img src="https://github.com/melanielaporte/Pirates-Booty" width="400" height="200"/>
-
+- Memory Card Game [Repo](https://github.com/user-attachments/assets/50e294bc-4dc9-4e7a-a84f-2efb8e5325f4)) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
+<img src=" " width="400" height="200"/>
 
 ### Security 
 - [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
