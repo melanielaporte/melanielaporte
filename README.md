@@ -146,6 +146,9 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ### Web development
 - [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
 - [Nonprofit Website](https://github.com/melanielaporte/SustainTulsa-Nonprofit-Site)
+- Project #1 (Coming Soon)
+- Project #2 (Coming Soon)
+- App Project #1 (Coming Soon)
   
 ### UI/UX design
 - [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
