@@ -129,10 +129,6 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   <img src="https://github.com/user-attachments/assets/51278f9b-46ec-4049-905e-10ec64c9cd85" width="250" height="200"/>
 </a>
 
-<a href="https://editor.p5js.org/melanielaporte/full/2RYr-X7Y9" target="_blank">
-  <img src="https://github.com/user-attachments/assets/f965b39f-6f79-4091-89c8-c46a37fa9750 " width="250" height="200"/>
-</a>
-
 ### Games
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
 <img src="https://github.com/user-attachments/assets/838ba10f-f652-4d78-86de-aaf53491e00f" width="400" height="200"/>
