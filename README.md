@@ -131,7 +131,9 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 
 ### Games
 - [Memory Card Game](https://github.com/melanielaporte/Pirates-Booty) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
-<img src="https://github.com/user-attachments/assets/838ba10f-f652-4d78-86de-aaf53491e00f" width="400" height="200"/>
+<a href="https://github.com/melanielaporte/Pirates-Booty" target="_blank">
+  <img src="https://github.com/user-attachments/assets/838ba10f-f652-4d78-86de-aaf53491e00f" width="400" height="200"/>
+</a>
 
 ### Security 
 - [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
