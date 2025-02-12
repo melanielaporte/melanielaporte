@@ -126,7 +126,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </a>
 
 <a href="https://editor.p5js.org/melanielaporte/full/e3u5NdIPt" target="_blank">
-  <img src="https://github.com/user-attachments/assets/51278f9b-46ec-4049-905e-10ec64c9cd85" width="250" height="200"/>
+  <img src="https://github.com/user-attachments/assets/c4856a65-a55f-4384-a820-39289c947615" width="250" height="200"/>
 </a>
 
 ### Games
