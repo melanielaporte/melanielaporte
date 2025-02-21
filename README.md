@@ -60,7 +60,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ### Electronic prototyping 
 - [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
 - TENS (Coming Soon)
-- Mini Robot (Coming Soon)
+- CatBot (Coming Soon)
 
 ### Film/Animation 
 - [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
