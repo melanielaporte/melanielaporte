@@ -55,6 +55,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </div>
 
 ---------------------
+***PORTFOLIO LOADING SOON!***
 
 ## :bulb: Projects:
 ### Electronic prototyping 
