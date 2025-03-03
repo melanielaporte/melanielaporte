@@ -25,7 +25,6 @@
 </h1>
 </div>
 
-## :woman_technologist: About Me :
 <h5 align=center>`` Success follows doing what you love ``</h5>
 
 I am an aspiring engineer passionate about building solutions that merge creativity with functionality and expertise. New York based.
