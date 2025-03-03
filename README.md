@@ -131,7 +131,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </a>
 
 ### Games
-- Memory Card Game [Repo](https://github.com/user-attachments/assets/50e294bc-4dc9-4e7a-a84f-2efb8e5325f4) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
+- Memory Card Game [Repo](https://github.com/melanielaporte/Pirate-Memory-Game) (Play [here](https://editting-lively-shell-121.vscodeedu.app/))
 <img src="https://github.com/user-attachments/assets/cfdc3833-6ffd-4314-8b82-3fae9d7e5920" width="400" height="200"/>
 
 ### Security 
