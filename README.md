@@ -138,7 +138,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - [Security Log Parser](https://github.com/melanielaporte/Security-Log-Parser/tree/main)
 
 ### 3D modeling 
-- [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md)
+- [Narcan Kandi Kase for Ravers](https://github.com/melanielaporte/NarcanKandyForRaves/blob/main/README.md) CHANGING THE DESIGN, WILL UPDATE REPO SOON 
 
 ### Web development
 - [Minimalistic Website](https://github.com/melanielaporte/sparse_Website)
@@ -146,10 +146,12 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - Project #1 (Coming Soon)
 - Project #2 (Coming Soon)
 - App Project #1 (Coming Soon)
+- App Project #2 (Coming Soon)
   
 ### UI/UX design
 - [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
 - [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
+- 
 
 ### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
