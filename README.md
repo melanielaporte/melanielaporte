@@ -163,7 +163,8 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 #### My free resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices)
-
+- React template (Coming Soon)
+- Creative coding art template (Coming Soon)
 - [Git Cheatsheet](https://github.com/melanielaporte/gitCheatsheet)
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
@@ -172,6 +173,6 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - [Free programming books -Ebook Foundation](https://ebookfoundation.github.io/free-programming-books-search/) and [here](https://web.archive.org/web/20140728195258/https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development) (will be some repeats)
 - [For inventors](https://www.uspto.gov/blog/free-resources-inventors-and-entrepreneurs)
   - [Pro bono patent attorneys](https://www.uspto.gov/patents/basics/using-legal-services/pro-bono/patent-pro-bono-program#:~:text=The%20Patent%20Pro%20Bono%20Program,assistance%20in%20securing%20patent%20protection.)
-- [Survivor books for the prepper in you](https://www.survivorlibrary.com/index.php/main-library-index/)
+- [Survivor books](https://www.survivorlibrary.com/index.php/main-library-index/) for the prepper in you
 - [Learn any language](https://www.languagelist.org/)
 - [Directory of free things](https://download.kiwix.org/zim/)
