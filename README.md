@@ -151,7 +151,6 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ### UI/UX design
 - [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
 - [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
-- 
 
 ### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
