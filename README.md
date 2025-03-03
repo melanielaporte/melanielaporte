@@ -63,7 +63,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - TENS (Coming Soon)
 - 
 ### Robotics
-- MR. Smile (Coming Soon)
+- Mr. Smile (Coming Soon)
 - CatBot (Coming Soon)
 
 ### Film/Animation 
