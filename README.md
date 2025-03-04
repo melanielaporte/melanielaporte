@@ -32,7 +32,11 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 
 - :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
-- :zap: In my free time, I actively contribute to open source humanitarian projects like [MoonRat](https://github.com/melanielaporte/moonrat), harm reduction efforts like [Narcan Kandi](https://github.com/melanielaporte/NarcanKandyForRaves), and the [GDT](https://github.com/gosqasorg/asset-provenance-tracking) that merge engineering, design, and social impact to solve real-world problems.
+- :zap: In my free time, I actively contribute to open source humanitarian projects that merge engineering, design, and social impact to solve real-world problems.
+  - Open Library Developer for [Internet Archive Open Library](https://github.com/melanielaporte/openlibrary)
+  - Lead Systems Engineer and Product Manager for portable incubator [MoonRat](https://github.com/melanielaporte/moonrat)
+  - 3D Product Designer for the harm reduction product [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves)
+  - Junior Developer for the global tracker initiative [GOSQAS GDT](https://github.com/gosqasorg/asset-provenance-tracking) 
   
 ---
 
