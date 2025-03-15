@@ -65,9 +65,10 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
 - TENS (Coming Soon)
 
-### Robotics
-- Mr. Smile (Coming Soon)
-- CatBot (Coming Soon)
+### UI/UX design
+- [Website Redesign UX & Development Case Study: Sustain Tulsa](https://github.com/melanielaporte/Website-Redesign-SustainTulsa)
+- [Website UX/UI Case Study: Farm to Family](https://github.com/melanielaporte/farmtofamilySite)
+- [Website UX Case Study: Author Portfolio](https://github.com/melanielaporte/writerPortfolioSite)
 
 ### Film/Animation 
 - [3001 Mini Movie](https://github.com/melanielaporte/Mini-Movie-3001)
@@ -153,11 +154,6 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - Project #2 (Coming Soon)
 - App Project #1 (Coming Soon)
 - App Project #2 (Coming Soon)
-  
-### UI/UX design
-- [Website Redesign UX & Development Case Study: Sustain Tulsa](https://github.com/melanielaporte/Website-Redesign-SustainTulsa)
-- [Website UX/UI Case Study: Farm to Family](https://github.com/melanielaporte/farmtofamilySite)
-- [Website UX Case Study: Author Portfolio](https://github.com/melanielaporte/writerPortfolioSite)
 
 ### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
