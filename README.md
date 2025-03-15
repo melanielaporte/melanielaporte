@@ -155,6 +155,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - App Project #2 (Coming Soon)
   
 ### UI/UX design
+- [SustainTulsa Case Study](https://github.com/melanielaporte/Website-Redesign-SustainTulsa)
 - [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
 - [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
 
