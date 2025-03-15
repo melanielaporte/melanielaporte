@@ -155,9 +155,9 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - App Project #2 (Coming Soon)
   
 ### UI/UX design
-- [SustainTulsa Case Study](https://github.com/melanielaporte/Website-Redesign-SustainTulsa)
-- [Nonprofit Website Design](https://github.com/melanielaporte/farmtofamilySite)
-- [Author Website Design](https://github.com/melanielaporte/writerPortfolioSite)
+- [Website Redesign UX & Development Case Study: Sustain Tulsa](https://github.com/melanielaporte/Website-Redesign-SustainTulsa)
+- [Website UX/UI Case Study: Farm to Family](https://github.com/melanielaporte/farmtofamilySite)
+- [Website UX Case Study: Author Portfolio](https://github.com/melanielaporte/writerPortfolioSite)
 
 ### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
