@@ -176,3 +176,4 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - [Survivor books](https://www.survivorlibrary.com/index.php/main-library-index/) for the prepper in you
 - [Learn any language](https://www.languagelist.org/)
 - [Directory of free things](https://download.kiwix.org/zim/)
+- [KiCad Symbol & Footprint Library for Arduino Modules](https://github.com/Alarm-Siren/arduino-kicad-library)
