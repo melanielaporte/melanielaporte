@@ -77,6 +77,10 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 </a>
 
 ### Creative Coding (right click image to see full screen in a new window!)
+Conspiracy board: https://editor.p5js.org/melanielaporte/full/8tCOu1mHF
+![Conspiracyboard-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/105dd8c7-e996-43c8-a2f1-fe799283f8d1)
+
+
 <a href="https://openprocessing.org/sketch/2542265" target="_blank">
   <img src="https://github.com/user-attachments/assets/a22d5438-4c9f-4cfd-884c-1a9aae5aabe9" width="150" height="100"/>
 </a>
