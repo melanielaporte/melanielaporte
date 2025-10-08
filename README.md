@@ -33,11 +33,12 @@ I am an aspiring engineer passionate about building interesting solutions that m
 
 - Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
-- Actively contribute to open source humanitarian projects that merge engineering, design, and social impact to solve real-world problems.
+- Actively contribute to open source humanitarian projects that merge engineering, design, and social impact to solve real-world problems:
   - Open Library Developer for [Internet Archive](https://archive.org/) [Open Library](https://github.com/melanielaporte/openlibrary)
   - Lead Systems Engineer and Product Manager for portable incubator [MoonRat](https://github.com/melanielaporte/moonrat)
   - 3D Product Designer for the harm reduction product [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves)
-  - Junior Developer for the global tracker initiative [GOSQAS GDT](https://github.com/gosqasorg/asset-provenance-tracking) 
+  - Junior Developer for the global tracker initiative [GOSQAS GDT](https://github.com/gosqasorg/asset-provenance-tracking)
+  - Safe Haven Care Kit created for New York Sun River Health homeless community (Coming Soon)
   
 ---
 
@@ -59,7 +60,7 @@ I am an aspiring engineer passionate about building interesting solutions that m
 </div>
 
 ---------------------
-***PORTFOLIO LOADING SOON!***
+***PORTFOLIO SITE COMING SOON!***
 
 ## Projects:
 ### Electronic prototyping 
