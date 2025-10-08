@@ -27,12 +27,13 @@
 
 <h5 align=center>`` Success follows doing what you love ``</h5>
 
-I am an aspiring engineer passionate about building solutions that merge creativity with functionality and expertise. New York based.
-- :telescope: Studying Computer Science at Columbia University and promote frontend and backend for building web and app applications, as well as hardware and prototype devices.
+I am an aspiring engineer passionate about building interesting solutions that merge creativity with functionality and expertise. New York based.
+- Rising Junior studying Computer Science at Columbia University with a minor in Visual Arts.
+  - Focused on frontend and backend for building web and app applications, as well as hardware and prototype devices.
 
-- :seedling: Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
+- Exploring 3D modeling and ways to gamify productivity to enhance user experiences with interactive design.
 
-- :zap: Actively contribute to open source humanitarian projects that merge engineering, design, and social impact to solve real-world problems.
+- Actively contribute to open source humanitarian projects that merge engineering, design, and social impact to solve real-world problems.
   - Open Library Developer for [Internet Archive](https://archive.org/) [Open Library](https://github.com/melanielaporte/openlibrary)
   - Lead Systems Engineer and Product Manager for portable incubator [MoonRat](https://github.com/melanielaporte/moonrat)
   - 3D Product Designer for the harm reduction product [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves)
@@ -40,10 +41,10 @@ I am an aspiring engineer passionate about building solutions that merge creativ
   
 ---
 
-## :fire: My Stats :
+## My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanielaporte&show_icons=true&theme=synthwave) 
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -60,7 +61,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ---------------------
 ***PORTFOLIO LOADING SOON!***
 
-## :bulb: Projects:
+## Projects:
 ### Electronic prototyping 
 - [Moonrat Portable Incubator (Printed Circuit Boards)](https://github.com/PubInv/moonrat)
 - TENS (Coming Soon)
@@ -158,9 +159,9 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 ### Writing
 - Mentoring - How to Mentor and be Mentored (Coming Soon)
 
-## :book: Resources:
+## Free Resources:
 
-#### My free resources for universal use: 
+#### My resources for universal use: 
 - [JLCPCB printed circut board ordering guide](https://github.com/melanielaporte/JLCPCB-Ordering-Guide)
 - [Frontend project template-HTML, CSS, JavaScript](https://github.com/melanielaporte/project-template-novices)
 - React template (Coming Soon)
@@ -169,7 +170,7 @@ I am an aspiring engineer passionate about building solutions that merge creativ
 - [Internship tracker template](https://github.com/melanielaporte/Internship-Tracker-Template)
 - [Ultimate Markdown Guide](https://github.com/melanielaporte/Ultimate-Markdown-Guide)
 
-#### Other free resources:
+#### Other resources:
 - [Free programming books -Ebook Foundation](https://ebookfoundation.github.io/free-programming-books-search/) and [here](https://web.archive.org/web/20140728195258/https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development) (will be some repeats)
 - [For inventors](https://www.uspto.gov/blog/free-resources-inventors-and-entrepreneurs)
   - [Pro bono patent attorneys](https://www.uspto.gov/patents/basics/using-legal-services/pro-bono/patent-pro-bono-program#:~:text=The%20Patent%20Pro%20Bono%20Program,assistance%20in%20securing%20patent%20protection.)
