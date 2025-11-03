@@ -1,6 +1,4 @@
 
-![Banner1](https://github.com/user-attachments/assets/270aef4b-c140-457a-868f-ae9691b4ee21)
-
 <div id="header" align="center" alt="my gif">
   <img src="https://github.com/user-attachments/assets/4a3d4756-0eaf-45fc-b796-162276203298" width="150"/>
 </div>
