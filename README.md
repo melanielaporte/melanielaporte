@@ -37,7 +37,7 @@ I am a creative technologist studying Computer Science at Columbia University wi
 ### Interactive & Creative Tech
 - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library.
 
-<a href="https://github.com/melanielaporte/Mini-Movie-3001" target="_blank>
+<a href="https://github.com/melanielaporte/Mini-Movie-3001" target="_blank">
   <img src="https://github.com/user-attachments/assets/a9b25c56-c781-417e-ad96-877cd21a125b" width="150" height="100"/>
 </a>
 <a href="https://openprocessing.org/sketch/2542265" target="_blank">
