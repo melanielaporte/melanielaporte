@@ -20,7 +20,9 @@
  <h1> Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-I am a creative technologist studying Computer Science at Columbia University with minors in African American Studies and Visual Arts. I create artistic solutions assisted by tech to solve social, historical, and public-health challenges that merge invention, storytelling, and design to reveal hidden narratives and improve everyday life.
+I am a creative technologist studying Computer Science at Columbia University with minors in African American Studies and Visual Arts. I merge invention, storytelling, and design to create tech-assisted artistic solutions. These works tackle social, historical, and public-health challenges, revealing hidden narratives and improving everyday life.
+
+
 
 ## Portfolio:
 
