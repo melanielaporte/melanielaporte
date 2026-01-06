@@ -27,18 +27,18 @@ I am a creative technologist studying Computer Science at Columbia University wi
 ## Portfolio:
 
 ### Innovation & Invention
-- [Moonrat](https://github.com/PubInv/moonrat) an open source portable incubator for field engineers and scientists
-- [Safe Haven Care Kit](https://github.com/melanielaporte/safehaven) created for New York Sun River Health houseless community
-- [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves) harm reduction product
+- [Moonrat](https://github.com/PubInv/moonrat) an open source portable incubator for field engineers and scientists.
+- [Safe Haven Care Kit](https://github.com/melanielaporte/safehaven) created for New York Sun River Health houseless community.
+- [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves), a harm reduction product for electonic music fesitvals.
 
 
 ### Visual Storytelling & Social Art
-- [A Property of Words](https://www.canva.com/design/DAG3nsKZWD0/gow2BOm59JSqIDj2StQR1A/view?utm_content=DAG3nsKZWD0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dad79f72b) an Archival Quadriptych of Four Enslaved Narratives 
-- [Black Geographies](https://github.com/melanielaporte/blackgeographies) an AR Historial layers COMING SOON
+- [A Property of Words](https://www.canva.com/design/DAG3nsKZWD0/gow2BOm59JSqIDj2StQR1A/view?utm_content=DAG3nsKZWD0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dad79f72b) an archival quadriptych of four enslaved narratives. 
+- [Black Geographies](https://github.com/melanielaporte/blackgeographies) an AR tour of the United States. COMING SOON
 - Courier Unit 14-B, an Afrofuturistic survival kit from 2080. PORTFOLIO LINK COMING SOON
   
 ### Interactive & Creative Tech
-- [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library.
+- [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library for tracking physical media among friends.
 
 <a href="https://github.com/melanielaporte/Mini-Movie-3001" target="_blank">
   <img src="https://github.com/user-attachments/assets/a9b25c56-c781-417e-ad96-877cd21a125b" width="150" height="100"/>
