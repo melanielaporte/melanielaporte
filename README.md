@@ -34,7 +34,8 @@ I am a creative technologist studying Computer Science at Columbia University wi
 
 ### Visual Storytelling & Social Art
 - [A Property of Words](https://www.canva.com/design/DAG3nsKZWD0/gow2BOm59JSqIDj2StQR1A/view?utm_content=DAG3nsKZWD0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dad79f72b) an Archival Quadriptych of Four Enslaved Narratives 
-- [Black Geographies](https://github.com/melanielaporte/blackgeographies) an AR Historial layers
+- [Black Geographies](https://github.com/melanielaporte/blackgeographies) an AR Historial layers COMING SOON
+- Courier Unit 14-B – Afrofuturistic survival kit from 2080. PORTFOLIO LINK COMING SOON
   
 ### Interactive & Creative Tech
 - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library.
