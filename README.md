@@ -27,9 +27,9 @@ I am a creative technologist studying Computer Science at Columbia University wi
 ## Portfolio:
 
 ### Innovation & Invention
-- [Moonrat](https://github.com/PubInv/moonrat), an open source portable incubator for field engineers and scientists.
-- [Safe Haven Care Kit](https://github.com/melanielaporte/safehaven), created for New York Sun River Health houseless community.
-- [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves), a harm reduction product for electonic music fesitvals.
+- [Moonrat](https://github.com/PubInv/moonrat) an open source portable incubator for field engineers and scientists.
+- [Safe Haven Care Kit](https://github.com/melanielaporte/safehaven) created for New York Sun River Health houseless community.
+- [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves) a harm reduction product for electonic music fesitvals.
 
 
 ### Visual Storytelling & Social Art
