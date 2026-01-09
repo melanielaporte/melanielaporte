@@ -28,7 +28,7 @@ Frontend/Interactive: React, HTML/CSS/JS, interactive UI design
 
 Hardware/Prototyping: Arduino, KiCad, FreeCAD, Fusion360, Siemens NX, SolidCAD
 
-Data & Backend: MongoDB
+Data/Backend: MongoDB
 
 Systems/Tools: Linux, Raspberry Pi
 
