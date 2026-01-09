@@ -1,25 +1,22 @@
 ## About Me 
-I’m a creative technologist and CS student at Columbia University. I build tools, systems, and interactive experiences that merge technology, design, and storytelling. My work explores social, historical, and public-health challenges, turning ideas into prototypes, dashboards, and devices that people can actually use. 
+I’m a creative technologist and CS student at Columbia University. I design, prototype, and code tools, systems, and interactive experiences that blend technology, design, and storytelling. My work explores social, historical, and public-health challenges, turning ideas into prototypes, dashboards, and devices that people can actually use. 
 
-I'm focused on: 
-- Systems and automation
-- Data-driven tools and dashboards
-- Hardware + software integration and interactive prototypes
+I’m especially interested in hardware-software integration, systems and automation, and data-driven interactive tools.
 
 ## Select Projects
 #### 1. Systems + Automation - infrastructure and scripting skills.
- - [SysAdmin Automation](https://github.com/melanielaporte/fieldkit-automation) a Linux/Raspberry Pi setup to provision users, deploy software, and collect logs.
+ - [SysAdmin Automation](https://github.com/melanielaporte/fieldkit-automation) a Linux/Raspberry Pi setup that provisions users, deploys software, and collects logs. A hands-on demonstration of real-world system automation.
    
 #### 2. Data + Interface - frontend-backend integration and usability.
- - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library. It's a dashboard for tracking, exploring, and sharing physical media among friends. Combines data modeling, a responsive frontend, and an intuitive user experience.
+ - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library for tracking, exploring, and sharing physical media among friends. Combines data modeling, a responsive frontend, and intuitive UX.
    
 #### 3. Hardware + Software - end-to-end hardware-software understanding.
- - [Moonrat](https://github.com/PubInv/moonrat) an open-source portable incubator for field engineers and scientists. Full design → circuit → firmware → interaction. **Includes a published scientific paper**
- - [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves) a harm reduction product for electonic music fesitvals.
+ - [Moonrat](https://github.com/PubInv/moonrat) an open-source portable incubator for field engineers and scientists. Full workflow: design → circuit → firmware → interaction. **Includes a published scientific paper**
+ - [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves) an opiate harm reduction product for electronic music festivals ---- combining hardware, firmware, and interactive design.  
    
 #### 4. Frontend/Interactive projects 
- - [SustainTulsa](https://github.com/melanielaporte/SustainTulsa) a HTML/CSS/JS coded frontend project demonstrating interactivity and UI design
- - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game demonstrating coding and user experience
+ - [SustainTulsa](https://github.com/melanielaporte/SustainTulsa) a HTML/CSS/JS coded frontend project ----  interactivity and UI design
+ - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game ---- coding, UX, and playful interface design.
 
 ## Tech Stack
 Programming/Scripting: Python, Bash, Java, Swift, TypeScript, JavaScript, HTML, CSS
