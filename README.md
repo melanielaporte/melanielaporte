@@ -22,5 +22,13 @@ I'm focused on:
  - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game demonstrating coding and user experience
 
 ## Tech Stack
-Python, Linux, Bash, React, TypeScript, Java, Swift, FreeCAD, Fusion360, SiemensNX, Solidcad, KiCad, Arduino, MongoDB, HTML, CSS, JavaScript
+Programming/Scripting: Python, Bash, Java, Swift, TypeScript, JavaScript, HTML, CSS
+
+Frontend/Interactive: React, HTML/CSS/JS, interactive UI design
+
+Hardware/Prototyping: Arduino, KiCad, FreeCAD, Fusion360, Siemens NX, SolidCAD
+
+Data & Backend: MongoDB
+
+Systems/Tools: Linux, Raspberry Pi
 
