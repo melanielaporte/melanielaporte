@@ -8,7 +8,7 @@ I'm focused on:
 
 ## Select Projects
 #### 1. Systems + Automation - infrastructure and scripting skills.
- - [Fieldkit Automation](https://github.com/melanielaporte/fieldkit-automation) Linux/Raspberry Pi setup to provision users, deploy software, and collect logs.
+ - [Sysadmin Automation](https://github.com/melanielaporte/fieldkit-automation) Linux/Raspberry Pi setup to provision users, deploy software, and collect logs.
    
 #### 2. Data + Interface - frontend-backend integration and usability.
  - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library. It's a dashboard for tracking, exploring, and sharing physical media among friends. Combines data modeling, a responsive frontend, and an intuitive user experience.
