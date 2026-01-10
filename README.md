@@ -19,13 +19,13 @@ I’m especially interested in hardware-software integration, systems and automa
  - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game ---- coding, UX, and playful interface design.
 
 ## Tech Stack
-Programming/Scripting: Python, Bash, Java, Swift, TypeScript, JavaScript, HTML, CSS
+Programming & Scripting: Python, Bash, Java, Swift, TypeScript, JavaScript, HTML, CSS
 
-Frontend/Interactive: React, HTML/CSS/JS, interactive UI design
+Frontend & Interactive: React, HTML/CSS/JS, interactive UI design
 
-Hardware/Prototyping: Arduino, KiCad, FreeCAD, Fusion360, Siemens NX, SolidCAD, 3D printing
+Hardware & Prototyping: Arduino, KiCad, FreeCAD, Fusion360, Siemens NX, SolidCAD, 3D printing
 
-Data/Backend: MongoDB
+Data & Backend: MongoDB
 
-Systems/Tools: Linux, Raspberry Pi, LaTex
+Systems & Tools: Linux, Raspberry Pi, LaTex
 
