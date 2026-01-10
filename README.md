@@ -5,7 +5,7 @@ I’m especially interested in hardware-software integration, systems and automa
 
 ## Select Projects
 #### 1. Systems + Automation in infrastructure and scripting skills
- - [SysAdmin Automation](https://github.com/melanielaporte/fieldkit-automation) a Linux/Raspberry Pi setup that provisions users, deploys software, and collects logs. It's a hands-on demonstration of real-world system automation.
+ - [SysAdmin Automation](https://github.com/melanielaporte/fieldkit-automation) a Linux/Raspberry Pi setup that provisions users, deploys software, and collects logs. It's real-world system automation.
    
 #### 2. Data + Interface in frontend-backend integration and usability
  - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library for tracking, exploring, and sharing physical media among friends. Combines data modeling, a responsive frontend, and intuitive UX.
