@@ -15,8 +15,8 @@ I’m especially interested in hardware-software integration, systems and automa
  - [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves) an opiate harm reduction product for electronic music festivals ---- combining hardware, firmware, and interactive design.  
    
 #### 4. Frontend & Interactive projects 
- - [SustainTulsa](https://github.com/melanielaporte/SustainTulsa) a HTML/CSS/JS coded frontend project ---- responsive UI design
- - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game ---- coding, UX, and playful interface design.
+ - [SustainTulsa](https://github.com/melanielaporte/SustainTulsa) a HTML/CSS/JS coded frontend project, responsive UI design
+ - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game, coding, UX, and playful interface design.
 
 ## Tech Stack
 Programming & Scripting: Python, Bash, Java, Swift, TypeScript, JavaScript, HTML, CSS
