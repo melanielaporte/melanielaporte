@@ -10,7 +10,7 @@ I’m especially interested in hardware-software integration, systems and automa
 #### 2. Data + Interface in frontend-backend integration and usability
  - [Retro Media Emporium](https://github.com/melanielaporte/Retro-Media-Emporium) a digital library for tracking, exploring, and sharing physical media among friends. Combines data modeling, a responsive frontend, and intuitive UX.
    
-#### 3. Hardware + Software in end-to-end hardware-software understanding
+#### 3. Hardware + Software in full product lifecycle understanding
  - [Moonrat](https://github.com/PubInv/moonrat) an open-source portable incubator for field engineers and scientists. Full workflow: design -> circuit -> firmware -> interaction. **Includes a published scientific paper**
  - [Narcan Kandi For Raves](https://github.com/melanielaporte/NarcanKandyForRaves) an opiate harm reduction product for electronic music festivals, combining hardware, firmware, and interactive design.  
    
