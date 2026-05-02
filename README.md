@@ -18,6 +18,8 @@ powered incubator that holds samples at a correct temperature and time. Full wor
 #### 4. Frontend & Interactive projects 
  - [SustainTulsa](https://github.com/melanielaporte/SustainTulsa) a HTML/CSS/JS coded frontend project, responsive UI design
  - [Pirate Memory Game](https://github.com/melanielaporte/Pirate-Memory-Game) a tiny interactive game, coding, UX, and playful interface design.
+ - [Water Robot](https://github.com/melanielaporte/water-robot) an AI powered robot which learns over time to attract viewers with cymatics or vibratory patterns. 
+   
 
 ## Tech Stack
 Programming & Scripting: Python, Bash, Java, Swift, TypeScript, JavaScript, HTML, CSS
